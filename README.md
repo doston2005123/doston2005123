@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Doston</h1>
 <h3 align="center">A passionate fullstack developer from Uzbekistan</h3>
+<img alt="Dev ops gif dr Общественные Науки, Информатика" class="hCL kVc L4E MIw" elementtiming="closeupImage" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/originals/88/e5/a4/88e5a4a52f0d7725c5e56364422b79fc.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
